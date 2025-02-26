@@ -1,0 +1,30 @@
+.about {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.about h2 {
+    color: #2c3e50;
+    margin-bottom: 2rem;
+}
+
+.about-content {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.profile-image {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
+.about-text h3 {
+    color: #000000;
+    margin-bottom: 0.5rem;
+}
+
+.about-text p {
+    line-height: 1.6;
+}

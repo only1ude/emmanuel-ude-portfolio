@@ -1,0 +1,21 @@
+.portfolio {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.portfolio h2 {
+    color: #2c3e50;
+    margin-bottom: 2rem;
+}
+
+.portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+.portfolio-grid img {
+    max-width: 100%;
+    border-radius: 5px;
+}

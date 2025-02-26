@@ -1,0 +1,30 @@
+.skills {
+    padding: 4rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.skills h2 {
+    color: #3c3e50;
+    margin-bottom: 2rem;
+}
+
+.skills-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.skills-list {
+    list-style: none;
+    padding: 0;
+}
+
+.skills-list li {
+    margin-bottom: 1rem;
+    color: #000000;
+}
+
+.skills-image {
+    max-width: 300px;
+}
