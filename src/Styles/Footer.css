@@ -1,0 +1,42 @@
+.footer {
+    background-color: #000000;
+    color: white;
+    padding: 2rem;
+    margin-top: 2rem;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-left p {
+    margin-bottom: 0.5rem;
+}
+
+.footer-right ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+}
+
+.footer-right li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-right a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-right a:hover {
+    color: #000000;
+}
+
+.socailicons {
+    display: flex;
+    gap: 1rem;
+}
