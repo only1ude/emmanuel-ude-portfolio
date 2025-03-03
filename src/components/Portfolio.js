@@ -1,5 +1,6 @@
+// Portfolio.js
 import React from "react";
-import '  /styles/Portfolio.css';
+import '../styles/Portfolio.css'; // correct path from src/components/ to src/styles/
 import portfolio1 from '../assets/portfolio1.jpg'; //correct the path to the image
 import portfolio2 from '../assets/portfolio2.jpg'; //correct the path to the image
 import portfolio3 from '../assets/portfolio3.jpg'; //correct the path to the image
