@@ -1,13 +1,13 @@
 import React from "react";
 import '../styles/About.css';
-import profileImage from '../Assets/profile.jpg';
+import profileImage from '../assets/profile.jpg'; //correct the path to the image
 
 function About() {
     return (
         <section id="about" className="about">
          <h2>about</h2>
          <div className="about-content">
-            <img src="{profileImage}" alt="OIU" className="profile-image" />
+            <img src="profile.jpg" alt="OIU" className="profile-image" />
             <div className="about-text">
                 <h3>I'm Emmanuel Ude</h3>
                 <p>Web Developer</p>

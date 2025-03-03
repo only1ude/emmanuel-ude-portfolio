@@ -1,12 +1,12 @@
 import React from "react";
 import '../styles/Home.css';
-import personImage from '../Assets/person.jpg';
+import personImage from "../assets/person.jpg"; //correct the path to the image
 
 function Home() {
     return (
         <section id="home" className="home">
            <h1>HELLO</h1> 
-           <img src="{personImage}" alt="OIU" className="person-image" />
+           <img src="person.jpg" alt="OIU" className="person-image" />
            <p>Scroll down</p>
          </section>
     ); 
