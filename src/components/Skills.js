@@ -1,6 +1,6 @@
 import React from "react";
-import '../Styles/Skills.css';
-import notebookImage from '  /assets/notebook.jpg';
+import '../styles/Skills.css';
+import notebookImage from '../assets/notebook.jpg';
 
 function Skills() {
     return (

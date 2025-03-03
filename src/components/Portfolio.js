@@ -1,5 +1,5 @@
 import React from "react";
-import '  /Styles/Portfolio.css';
+import '  /styles/Portfolio.css';
 import portfolio1 from '../Assets/portfolio1.jpg';
 import portfolio2 from '../Assets/portfolio2.jpg';
 import portfolio3 from '../Assets/portfolio3.jpg';
