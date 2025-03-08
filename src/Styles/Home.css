@@ -16,6 +16,9 @@
 }
 
 .person-image {
+    /* Ensure the image is visible */
+    display: block;
     max-width: 300px;
     border-radius: 50%;
+    height: auto;
 }
