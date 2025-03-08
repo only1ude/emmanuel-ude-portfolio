@@ -1,6 +1,5 @@
 import React from "react";
 import '../styles/Skills.css';
-import notebookImage from '../assets/notebook.jpg';
 
 function Skills() {
     return (
@@ -15,7 +14,7 @@ function Skills() {
                 <li>MongoDB</li>
                 <li>UI/UX</li>
                 </ul>
-                <img src="{notebookImage}" alt="skills-graphic" className="skils-image" />
+                <img src="/assets/notebook.jpg" alt="skills-graphic" className="skils-image" />
             </div>
         </section>
     );
