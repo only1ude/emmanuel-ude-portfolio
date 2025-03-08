@@ -1,6 +1,5 @@
 import React from "react";
-import '../styles/Home.css';
-import personImage from '..assets/assets/person.jpg'; // If person.jpg is in the parent directory 
+import './styles/Home.css';
 
 function Home() {
     return (

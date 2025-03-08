@@ -1,6 +1,6 @@
 // Contact.js
 import React, { useState } from 'react';
-import '../styles/Contact.css'; // correct the path to the css file
+import './styles/Contact.css'; // correct the path to the css file
 
 function Contact() {
     const [formData, setFormData] = 
